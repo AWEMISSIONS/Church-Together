@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790204059394,
+      "tag": "0000_glorious_matthew_murdock",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790205515502,
+      "tag": "0001_skinny_frank_castle",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790206026083,
+      "tag": "0002_tired_mach_iv",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1790206078054,
+      "tag": "0003_mixed_johnny_storm",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1790206257641,
+      "tag": "0004_next_jetstream",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1790206339019,
+      "tag": "0005_busy_groot",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1790207077787,
+      "tag": "0006_jittery_marvel_boy",
+      "breakpoints": true
+    }
+  ]
+}
